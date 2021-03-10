@@ -14,24 +14,10 @@ client.on('message', msg => {  //WESO#0001
     }
   });
 
-client.on('message', msg => {  //WESO#0001
-    if (msg.content === 'كوين') {  //WESO#0001
-      msg.reply('القلب الطيب');  //WESO#0001
-    }
-  });
-
 
 client.on('message', msg => {  //WESO#0001
     if (msg.content === 'توته') {  //WESO#0001
       msg.reply('عسل السيرفر');  //WESO#0001
-    }
-  });
-
-
-
-client.on('message', msg => {  //WESO#0001
-    if (msg.content === 'زومبي') {  //WESO#0001
-      msg.reply('عندك روم؟');  //WESO#0001
     }
   });
 
@@ -41,17 +27,6 @@ client.on('message', msg => {  //WESO#0001
     }
   });
 
-client.on('message', msg => {  //WESO#0001
-    if (msg.content === 'حره') {  //WESO#0001
-      msg.reply('القلب الحنون');  //WESO#0001
-    }
-  });
-
-client.on('message', msg => {  //WESO#0001
-    if (msg.content === 'بندقه') {  //WESO#0001
-      msg.reply('نوتيلا بالبندق');  //WESO#0001
-    }
-  });
  
 client.on('message', msg => {  //WESO#0001
     if (msg.content === 'اسلام') {  //WESO#0001
@@ -79,29 +54,10 @@ client.on('message', msg => {  //WESO#0001
   });
 
 client.on('message', msg => {  //WESO#0001
-    if (msg.content === 'FB') {  //WESO#0001
+    if (msg.content === 'BDK') {  //WESO#0001
       msg.reply('** :wink: عيلة واحدة تضرب بيد من حديد :sparkling_heart:**');  //WESO#0001
     }
   });
-
-client.on('message', msg => {  //WESO#0001
-    if (msg.content === 'علاوي') {  //WESO#0001
-      msg.reply('**باندا العشق**');  //WESO#0001
-    }
-  });
-
-client.on('message', msg => {  //WESO#0001
-    if (msg.content === 'خالك') {  //WESO#0001
-      msg.reply('**فين الباص بتاعي**');  //WESO#0001
-    }
-  });
-
-client.on('message', msg => {  //WESO#0001
-    if (msg.content === 'شخابيط') {  //WESO#0001
-      msg.reply('**اذلكم بكمبرتي**');  //WESO#0001
-    }
-  });
-
 
 client.on('message', msg => {  //WESO#0001
     if (msg.content === 'سنوكس') {  //WESO#0001
@@ -115,11 +71,14 @@ client.on('message', msg => {  //WESO#0001
     }
   });
 
+
+
 client.on('message', msg => {  //WESO#0001
     if (msg.content === 'فريز') {  //WESO#0001
       msg.reply('**راعي المشاكل**');  //WESO#0001
     }
   });
+
 
 
 client.on('message', msg => {  //WESO#0001
@@ -137,11 +96,6 @@ client.on('message', msg => {  //WESO#0001
   });
 
 
-client.on('message', msg => {  //WESO#0001
-    if (msg.content === 'نسرين') {  //WESO#0001
-      msg.reply('**القلب الحنون**');  //WESO#0001
-    }
-  });
 
 client.on('message', msg => {  //WESO#0001
     if (msg.content === 'ابراهيم') {  //WESO#0001
@@ -149,15 +103,10 @@ client.on('message', msg => {  //WESO#0001
     }
   });
 
-client.on('message', msg => {  //WESO#0001
-    if (msg.content === 'بيلا') {  //WESO#0001
-      msg.reply('**اجمل بنت في المنصورة**');  //WESO#0001
-    }
-  });
 
 client.on('message', msg => {  //WESO#0001
-    if (msg.content === 'بندر') {  //WESO#0001
-      msg.reply('** قاهر الهاكات **');  //WESO#0001
+    if (msg.content === 'عزوز') {  //WESO#0001
+      msg.reply('** قاهر ولاد عمناالبي سي **');  //WESO#0001
     }
   });
 
@@ -219,7 +168,7 @@ client.on('message', msg => {  //WESO#0001
 
 client.on('message', msg => {  //WESO#0001
     if (msg.content === 'الشعار') {  //WESO#0001
-      msg.reply('**!              𝐅𝐁〡**');  //WESO#0001
+      msg.reply('**! 🅑🅳🅺〡**');  //WESO#0001
     }
   });
 
@@ -362,6 +311,13 @@ client.on('message', msg => {  //WESO#0001
     client.on('message', msg => {  
     if (msg.content === 'كشري') {  
       msg.reply('**راجع ذكريات سيزون 13..**');  
+    }
+  });
+
+
+    client.on('message', msg => {  
+    if (msg.content === 'بندر') {  
+      msg.reply('**برايفت خييييييوو**');  
     }
   });
 
